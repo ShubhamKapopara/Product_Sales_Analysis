@@ -1,8 +1,6 @@
 # 📊 Amazon Electronics Sales Data Analysis  
 
-[![GitHub repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/ShubhamKapopara/Product_Sales_Analysis)  
-[![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)](https://www.python.org/)  
-[![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange?logo=kaggle)](https://www.kaggle.com/datasets/edusanketdk/electronics)  
+[![GitHub repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/ShubhamKapopara/Product_Sales_Analysis)      [![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)](https://www.python.org/)      [![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange?logo=kaggle)](https://www.kaggle.com/datasets/edusanketdk/electronics)  
 
 ---
 
