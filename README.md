@@ -58,14 +58,3 @@ The main objective is to **extract business insights** that can support decision
 **Seasonal Demand Peaks** → Holiday months show significant sales spikes.  
 **Optimal Pricing Strategy** → Mid-range priced products sell more than extreme low/high ends.  
 
----
-
-## 🌟 Why This Project Matters  
-- Demonstrates **end-to-end data analysis workflow**.  
-- Focused on **business value**, not just technical coding.  
-- Highlights **data storytelling & visualization** skills.  
-- Fully reproducible for recruiters & hiring managers.  
-
-
-![Correlation Heatmap](images/correlation_heatmap.png)  
-![Monthly Sales Trend](images/monthly_sales_trend.png)  
